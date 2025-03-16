@@ -4,11 +4,11 @@
 The **Multiplayer Number Guessing Game** is a fun console-based game where two players take turns guessing a randomly chosen number within a selected difficulty range. The game features a scoring system, hints, a leaderboard, and the ability to save high scores.
 
 ## 🛠️ Features
-- 🎭 **Multiplayer Mode** (Two players take turns guessing)
-- 🔢 **Difficulty Levels** (Easy, Medium, Hard)
-- 🎯 **Leaderboard** (Stores the top 5 scores)
-- 💡 **Hint System** (Hints cost 2 attempts)
-- 💾 **High Score Saving** (Persists across sessions)
+-  **Multiplayer Mode** (Two players take turns guessing)
+-  **Difficulty Levels** (Easy, Medium, Hard)
+-  **Leaderboard** (Stores the top 5 scores)
+-  **Hint System** (Hints cost 2 attempts)
+-  **High Score Saving** (Persists across sessions)
 
 ---
 
