@@ -4,7 +4,7 @@ A fun two-player console game where players take turns guessing a random number.
 
 High scores are saved in a leaderboard, and players can compete to achieve the best score. Simple to play and easy to set up, making it a great project to improve Java skills! 🚀
 
-2. Word Scrambler Game
+# 2. Word Scrambler Game
 A simple Java-based word scrambler game where players guess the original word from a shuffled version. The game includes difficulty levels, limited attempts, and a hint system.
 
 Features:
