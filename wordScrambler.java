@@ -7,12 +7,12 @@ public class wordScrambler {
     private static final String[] MEDIUM_WORDS = {"developer", "database"};
     private static final String[] HARD_WORDS = {"microservices", "kickboxing"};
 
-    // Function to get words based on difficulty
+    // words based on difficulty
     public static String getRandomWord(String[] words, int index) {
         return words[index];  // Pick word based on index
     }
 
-    // Function to shuffle the letters of a word (Fisher-Yates algorithm)
+    //  (Fisher-Yates algorithm)
     public static String scrambleWord(String word) {
         char[] letters = word.toCharArray();
         Random random = new Random();
@@ -86,9 +86,9 @@ public class wordScrambler {
                 } else {
                     attemptsLeft--;
                     if (attemptsLeft > 0) {
-                        System.out.println("❌ Wrong! Attempts left: " + attemptsLeft);
+                        System.out.println(" Wrong! Attempts left: " + attemptsLeft);
                     } else {
-                        System.out.println("💀 No attempts left! The correct word was: '" + originalWord + "'.");
+                        System.out.println(" No attempts left! The correct word was: '" + originalWord + "'.");
                     }
                 }
             }
